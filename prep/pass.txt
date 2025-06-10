@@ -1,0 +1,3 @@
+Alice; MyPa$$w0rd
+Bob; password
+Charlie; P@ss123

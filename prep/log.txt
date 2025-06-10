@@ -1,0 +1,6 @@
+[2025-01-08 13:45:02] INFO    [User: John] - Logged in successfully
+[2025-01-08 13:46:10] ERROR   [Admin: Jane] - Invalid password attempt
+[2025-01-08 13:47:22] WARNING [User: Anna] - Password about to expire
+[2025-01-08 14:02:58] INFO    [Admin: Mike] - Profile updated
+[2025-01-08 14:05:00] INFO    [User: John] - Logged out
+[2025-01-08 14:09:11] ERROR   [User: Mark] - Payment processing failed

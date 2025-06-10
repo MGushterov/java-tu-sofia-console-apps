@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1/1.iml" filepath="$PROJECT_DIR$/1/1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2/2.iml" filepath="$PROJECT_DIR$/2/2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3/3.iml" filepath="$PROJECT_DIR$/3/3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4/4.iml" filepath="$PROJECT_DIR$/4/4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5/5.iml" filepath="$PROJECT_DIR$/5/5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ATM/ATM.iml" filepath="$PROJECT_DIR$/ATM/ATM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BarShipments/BarShipments.iml" filepath="$PROJECT_DIR$/BarShipments/BarShipments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cinema/Cinema.iml" filepath="$PROJECT_DIR$/Cinema/Cinema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Library/Library.iml" filepath="$PROJECT_DIR$/Library/Library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Library_02/Library_02.iml" filepath="$PROJECT_DIR$/Library_02/Library_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shop/Shop.iml" filepath="$PROJECT_DIR$/Shop/Shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prep.iml" filepath="$PROJECT_DIR$/prep.iml" />
+    </modules>
+  </component>
+</project>

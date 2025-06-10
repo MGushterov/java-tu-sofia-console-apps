@@ -1,0 +1,6 @@
+John Doe, john.doe@example.com
+Jane Smith, jane.smith@example.com
+Bob Brown, bob.brown@example.net
+Alice Johnson, alice.j@example.org
+Charlie Black, charlie.black@example.com
+Mishan, m@gmail.com
